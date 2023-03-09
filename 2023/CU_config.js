@@ -225,7 +225,7 @@ var config_data = `
       "code": "d",
       "type": "bool"
     },
-    { "name": "Avoided coopertition",
+    { "name": "Coopertition Bonus Achieved?",
       "code": "coo",
       "type": "bool"
     },
