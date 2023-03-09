@@ -240,6 +240,12 @@ var config_data = `
       "size": 15,
       "maxSize": 50
     },
+    { "name": "Fouls or Penalties",
+      "code": "co",
+      "type": "text",
+      "size": 15,
+      "maxSize": 50
+    },
     { "name": "Confidence Rating",
       "code": "cnf",
       "type": "radio",
