@@ -241,7 +241,7 @@ var config_data = `
       "maxSize": 50
     },
     { "name": "Fouls or Penalties",
-      "code": "co",
+      "code": "zz",
       "type": "text",
       "size": 15,
       "maxSize": 50
