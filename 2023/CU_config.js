@@ -234,14 +234,14 @@ var config_data = `
       "code": "all",
       "type": "bool"
     },
-    { "name": "Comments",
-      "code": "co",
+    { "name": "Fouls or Penalties",
+      "code": "fop",
       "type": "text",
       "size": 15,
       "maxSize": 50
     },
-    { "name": "Fouls or Penalties",
-      "code": "zz",
+    { "name": "Comments",
+      "code": "co",
       "type": "text",
       "size": 15,
       "maxSize": 50
