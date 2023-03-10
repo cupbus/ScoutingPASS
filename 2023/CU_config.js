@@ -250,9 +250,9 @@ var config_data = `
       "code": "cnf",
       "type": "radio",
       "choices": {
-        "v": "Very Confident<br>",
-        "a": "Average<br>",
-        "n": "Not Confident"
+        "5": "Very Confident<br>",
+        "2.5": "Average<br>",
+        "0": "Not Confident"
         },
       "defaultValue": "a"
     }
