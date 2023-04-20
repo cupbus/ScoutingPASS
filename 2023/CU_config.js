@@ -14,7 +14,7 @@ var config_data = `
     { "name": "Event",
       "code": "e",
       "type": "event",
-      "defaultValue": "2023nyli2",
+      "defaultValue": "2023dal",
       "required": "true",
       "disabled": "true"
     },
